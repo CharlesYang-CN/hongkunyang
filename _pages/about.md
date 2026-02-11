@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongkun Yang, currently a senior undergraduate student at Ocean University of China, specializing in artificial intelligence and machine learning. My research focuses on building responsible AI systems by addressing challenges arising from real-world data, including robustness, reliability, and ethical considerations.
+I am Hongkun Yang, a senior undergraduate student at Ocean University of China, majoring in Artificial Intelligence and Machine Learning. I am fortunate to work with Professor Wei Dong at NTU. My research focuses on building responsible AI systems, addressing challenges arising from real-world data, including robustness, reliability, and ethical considerations.
 
 Please refer to the Publications section for a list of my recent work. I am actively seeking research opportunities for Summer 2026 and Ph.D. positions beginning in Fall 2027.
 
-[Download my CV (PDF)]({{ base_path }}/hongkunyang/files/CV.pdf)
+[Download my CV (PDF)]({{ base_path }}/files/CV.pdf)
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
