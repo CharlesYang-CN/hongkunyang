@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/implicit-bias
 authors: "Yiming Ma, Lixu Wang, Lionel Z. Wang, **Hongkun Yang**, et al."
 venue: "Under Review"
-date: 2026
+date: 2026-01-01
 ---
 
 Yiming Ma, Lixu Wang, Lionel Z. Wang, **Hongkun Yang**, et al.  
