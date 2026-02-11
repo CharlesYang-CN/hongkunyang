@@ -11,7 +11,7 @@ I am Hongkun Yang, a senior undergraduate student at Ocean University of China, 
 
 Please refer to the Publications section for a list of my recent work. I am actively seeking research opportunities for Summer 2026 and Ph.D. positions beginning in Fall 2027.
 
-[Download my CV (PDF)]({{ base_path }}/files/cv.pdf)
+[Download my CV (PDF)]({{ base_path }}/hongkunyang/files/cv.pdf)
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
