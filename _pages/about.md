@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongkun Yang, a senior undergraduate student at Ocean University of China, majoring in Artificial Intelligence and Machine Learning. I am fortunate to work with Professor Wei Dong at NTU. My research focuses on building responsible AI systems, addressing challenges arising from real-world data, including robustness, reliability, and ethical considerations.
+I am Hongkun Yang, a senior undergraduate student at Ocean University of China, majoring in Mathematics. I am fortunate to work with Professor Wei Dong at NTU. My research focuses on building responsible AI systems, addressing challenges arising from real-world data, including robustness, reliability, and ethical considerations. Please refer to the Publications section for a list of my recent work. 
 
-Please refer to the Publications section for a list of my recent work. I am actively seeking research opportunities for Summer 2026 and Ph.D. positions beginning in Fall 2027.
+<font color="red">I am actively seeking research opportunities for Summer 2026 and Ph.D. positions beginning in Fall 2027.</font>
 
 [Download my CV (PDF)]({{ base_path }}/hongkunyang/files/cv.pdf)
 
